@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=ML%2FLLM+Pipeline+Developer;Data+Scientist+%26+Analyst;Product+Manager)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=ML%2FLLM+Pipeline+Developer;Data+Scientist+%26+Analyst;Product+Manager;Building+AI+for+Central+Asia)](https://git.io/typing-svg)
 
 </div>
 
@@ -257,7 +257,9 @@ specialization:
 
 <div align="center">
 
-**"Building AI that bridges technology and real-world impact"**
+**"Laziness isn't a vice — it's a tech spec."**
+
+*Building AI that bridges technology and real-world impact* 🚀
 
 ⭐️ From [komrxn](https://github.com/komrxn) with 💜
 
