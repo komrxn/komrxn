@@ -191,15 +191,32 @@ Enterprise-grade framework with dependency injection, routing, and CLI tools for
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=komrxn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komrxn&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=komrxn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komrxn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="49%" />
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=komrxn&theme=tokyonight)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=komrxn&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=komrxn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_rank=true&custom_title=Contribution%20Stats&show=reviews,prs_merged,prs_merged_percentage" width="49%" />
+
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+  
+<img src="https://github-profile-trophy.vercel.app/?username=komrxn&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophy" />
+
+</div>
+
+<div align="center">
+  
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=komrxn&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="100%" alt="activity graph" />
 
 </div>
 
