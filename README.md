@@ -93,7 +93,7 @@ Proprietary NLP model for legal document parsing, contract validation, and summa
 ### 📊 [chemo_stats](https://github.com/komrxn/chemo_stats)
 **Full-Stack Statistical Analysis Platform**
 
-Interactive web platform for ANOVA & PCA with real-time visualization.
+Professional web platform for chemo - analysis with real-time visualization.
 
 `Python FastAPI` `React TypeScript` `Statistics` `Data Viz`
 
