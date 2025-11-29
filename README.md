@@ -90,7 +90,7 @@ Proprietary NLP model for legal document parsing, contract validation, and summa
 </td>
 <td width="50%">
 
-### 📊 [kkh-analysis](https://github.com/komrxn/kkh-analysis)
+### 📊 [chemo_stats](https://github.com/komrxn/chemo_stats)
 **Full-Stack Statistical Analysis Platform**
 
 Interactive web platform for ANOVA & PCA with real-time visualization.
