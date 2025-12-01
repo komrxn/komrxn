@@ -48,7 +48,7 @@ class KomronKhakimov:
 
 ## 💼 Professional Experience
 
-### 🎯 **Founder & ML Engineer** @ [LegAI](https://github.com/komrxn) 
+### 🎯 **Founder & ML Engineer** @ [LegAI](https://github.com/AscenderTeam/legai-service.git) 
 *Oct 2024 - Present*
 - 🏛️ Built **first AI-powered legal assistant** in Central Asia
 - 🔧 Fine-tuned proprietary NLP models on large-scale legal datasets
@@ -80,7 +80,7 @@ class KomronKhakimov:
 <tr>
 <td width="50%">
 
-### 🏛️ LegAI
+### 🏛️ [LegAI] (https://github.com/AscenderTeam/legai-service.git)
 **First AI Legal Assistant in CIS**
 
 Proprietary NLP model for legal document parsing, contract validation, and summarization. Trained on Central Asian legal frameworks.
