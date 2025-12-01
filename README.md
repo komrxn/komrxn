@@ -80,7 +80,7 @@ class KomronKhakimov:
 <tr>
 <td width="50%">
 
-### 🏛️ [LegAI] (https://github.com/AscenderTeam/legai-service)
+### 🏛️ [LegAI](https://github.com/AscenderTeam/legai-service.git)
 **First AI Legal Assistant in CIS**
 
 Proprietary NLP model for legal document parsing, contract validation, and summarization. Trained on Central Asian legal frameworks.
