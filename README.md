@@ -1,17 +1,17 @@
-# Hey there, I'm Komron Khakimov 👋
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=ML%2FLLM+Pipeline+Developer;Data+Scientist+%26+Analyst;Product+Manager;Building+AI+for+Central+Asia)](https://git.io/typing-svg)
 
-</div>
+# 👋 Hey, I'm Komron Khakimov
 
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-komronkhakimov17%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:komronkhakimov17@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%40komrxn-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/komrxn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-komrxn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/komrxn)
-[![GitHub](https://img.shields.io/badge/GitHub-%40komrxn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/komrxn)
+### Tashkent / open to work · ML Engineer · AI Product Builder · Founder @ LegAI
+
+[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-komron--khakimov.com-6366F1?style=for-the-badge&labelColor=0a0a0a)](https://komron-khakimov.com)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=600&color=6366F1&center=true&vCenter=true&width=640&lines=I+don't+just+use+AI%2C+I+build+it.;Founder+of+LegAI+%E2%80%94+first+AI+legal+assistant+in+CIS;Currently%3A+building+Echelon+v0.1.0;Bridging+ML+engineering+%26+product+strategy)](https://komron-khakimov.com)
+
+[![Email](https://img.shields.io/badge/komronkhakimov17%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:komronkhakimov17@gmail.com)
+[![Telegram](https://img.shields.io/badge/@komrxn-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/komrxn)
+[![LinkedIn](https://img.shields.io/badge/Komron_Khakimov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komron-khakimov-712170376/)
+[![GitHub](https://img.shields.io/github/followers/komrxn?style=for-the-badge&logo=github&label=Follow&labelColor=181717&color=181717)](https://github.com/komrxn)
 
 </div>
 
@@ -20,118 +20,171 @@
 ## 🚀 About Me
 
 ```python
-class KomronKhakimov:
-    def __init__(self):
-        self.role = "ML/LLM Engineer & Data Scientist"
-        self.location = "Tashkent, Uzbekistan 🇺🇿"
-        self.languages = ["Russian (Native)", "English (C1)", "Uzbek (Fluent)"]
-        self.education = "Software Engineering @ IT Park University"
-        
-    def current_focus(self):
-        return [
-            "🤖 Building LLM-powered solutions for Central Asia",
-            "📊 Advanced data analytics & ML pipeline optimization",
-            "🏗️ Architecting scalable AI infrastructure",
-            "💼 Bridging ML engineering with product strategy"
-        ]
-    
-    def expertise(self):
-        return {
-            "ML/DL": ["NLP", "LLMs", "Deep Learning", "Classical ML"],
-            "Data Science": ["Statistical Analysis", "ANOVA", "PCA", "Clustering"],
-            "Product": ["Strategy", "Client Communication", "Presentations"],
-            "Engineering": ["System Design", "CI/CD", "DevOps", "Microservices"]
-        }
+class Komron:
+    role     = "ML Engineer & AI Product Builder"
+    based_in = "Tashkent, Uzbekistan 🇺🇿"
+    motto    = "I don't just use AI, I build it."
+
+    education = [
+        "B.Sc. Cyber Security @ IT Park University, Tashkent",
+        "B.Sc. Artificial Intelligence @ Hangzhou Dianzi University, China",
+    ]
+
+    languages = {
+        "spoken": ["Uzbek (native)", "Russian (native)", "English (C1)"],
+        "code":   ["Python", "Rust", "Go", "Node.js", "Bash"],
+    }
+
+    track_record = {
+        "projects_shipped":    "10  (idea → production)",
+        "ai_agents_deployed":  "50",
+        "years_in_ml":         "3",
+        "users_reached":       "2,500+",
+    }
+
+    current_focus = [
+        "🏛️  Scaling LegAI — first AI legal assistant in CIS",
+        "🛰️  Building Echelon v0.1.0 — AI corporate intelligence",
+        "📒  Baraka AI — your AI accountant in Telegram",
+        "🧠  Mnemo — open-source second brain (Vector + Graph RAG)",
+    ]
+
+    expertise = {
+        "LLMs":        ["Fine-tuning", "RAG", "Prompt Eng.", "GPT-5.1", "Claude"],
+        "ML & DL":     ["PyTorch", "TF", "HuggingFace", "MediaPipe", "OpenCV"],
+        "Data Sci":    ["ANOVA", "PCA", "Regression", "Clustering"],
+        "Engineering": ["FastAPI", "Aiogram", "Docker", "Microservices", "CI/CD"],
+        "Databases":   ["PostgreSQL", "Redis", "SurrealDB", "Vector DBs", "FAISS"],
+        "Product":     ["Strategy", "Pitching", "Investor Relations"],
+    }
+
+    daily_tools = ["Claude Code", "PyTorch", "FastAPI", "Cursor", "n8n"]
+    off_screen  = ["♟️ Chess", "🥊 Boxing", "🎮 Games", "✈️ Western Europe"]
+
+    def hire_me(self):
+        return "https://komron-khakimov.com"
 ```
 
 ---
 
-## 💼 Professional Experience
+## 📊 GitHub Pulse
 
-### 🎯 **Founder & ML Engineer** @ [LegAI](https://github.com/AscenderTeam/legai-service.git) 
-*Oct 2024 - Present*
-- 🏛️ Built **first AI-powered legal assistant** in Central Asia
-- 🔧 Fine-tuned proprietary NLP models on large-scale legal datasets
-- 👥 Leading cross-functional team (Backend, Frontend, Design)
-- 📈 Managing product strategy & investor relations
+<div align="center">
 
-### 🤖 **ML Engineer & Intern** @ Sales Doctor Solutions
-*Jul 2024 - May 2025*
-- 🔬 Developed **20+ custom AI agents** for CRM automation & workflow optimization
-- 🚀 Implemented classical & deep learning models in production
-- ⚡ Created personalized assistants for clients and managers
+![Komron's GitHub stats](https://github-readme-stats.vercel.app/api?username=komrxn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=6366F1&icon_color=6366F1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komrxn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=6366F1)
 
-### 📊 **Data Scientist** @ Chemolab
-*Aug 2023 - Nov 2024*
-- 🧪 Built GUI tools for **ANOVA & PCA analysis**
-- 📉 Data preprocessing, cleaning, and statistical analysis
-- 🎯 Developed algorithms for classification & clustering
+![Streak](https://streak-stats.demolab.com?user=komrxn&theme=tokyonight&hide_border=true&background=0a0a0a&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
 
-### 💻 **Python Developer** @ NeuroBOSS
-*Jul 2025 - Sep 2025*
-- 🛠️ Optimized AgentHub-based microservices
-- 🐳 Worked with Docker, Redis, Postgres, CI/CD pipelines
+![Trophies](https://github-profile-trophy.vercel.app/?username=komrxn&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
 
 ---
 
-## 🎨 Featured Projects
+## 🛠️ Featured Work
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏛️ [LegAI](https://github.com/AscenderTeam/legai-service.git)
-**First AI Legal Assistant in CIS**
+### 🌐 [Interactive Portfolio](https://komron-khakimov.com)
+**Not a static page, a live AI playground.**
 
-Proprietary NLP model for legal document parsing, contract validation, and summarization. Trained on Central Asian legal frameworks.
+- 🤖 In-browser GPT-5.1 streaming terminal
+- ✋ Hand-gesture navigation (MediaPipe)
+- 😊 Emotion-adaptive theme (face-api.js)
+- 🌌 React Three Fiber scroll choreography
 
-`NLP` `LLMs` `Legal Tech` `FastAPI`
+`Next.js 15` `R3F` `MediaPipe` `OpenAI` `Tailwind v4`
 
 </td>
 <td width="50%">
 
-### 📊 [chemo_stats](https://github.com/komrxn/chemo_stats)
-**Full-Stack Statistical Analysis Platform**
+### 🏛️ LegAI · ⭐ Featured
+**Like ChatGPT, but it speaks Uzbek Legal.**
 
-Professional web platform for chemo - analysis with real-time visualization.
+First AI legal assistant in Central Asia. Proprietary NLP for legal parsing, contract validation, summarization. Trained on Central Asian frameworks.
 
-`Python FastAPI` `React TypeScript` `Statistics` `Data Viz`
+`Python` `LangChain` `HuggingFace` `FastAPI` `SurrealDB`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
-### 🍕 [RomaAI](https://github.com/komrxn/RomaAI)
-**AI-Powered Incidents Manager**
+### 🛰️ Echelon
+**AI Corporate Intelligence System for company leadership.**
 
-Smart incident tracking and management system for Roma Pizza operations.
+Self-hosted, runs on Raspberry Pi 5 + Rust. Currently shipping v0.1.0.
 
-`AI Automation` `ML` `FastAPI` `Telegram Bot`
+`Rust` `HuggingFace` `Candle` `Qdrant` `Tokio + Axum` `OpenCV`
 
 </td>
 <td width="50%">
 
-### 🤖 AgentHub
-**Autonomous AI Agent Platform**
+### 📒 Baraka AI
+**Your AI accountant lives in Telegram, just text what you spent.**
 
-Context management, chat orchestration, and pipeline automation. Powers LegAI, NeuroBOSS, and Customs AI.
+[📺 Demo](https://www.instagram.com/reel/DVY1LuJjGsn/) · Smart expense tracking, NLP categorization, instant reports.
 
-`LangChain` `LLM Orchestration` `Microservices`
+`Python` `FastAPI` `Aiogram` `Vue 3` `PostgreSQL` `OpenAI`
 
 </td>
 </tr>
+<tr>
+<td width="50%">
 
+### 🧠 [Mnemo](https://github.com/komrxn/Mnemo)
+**Your second brain, powered by AI. Open-source.**
+
+Vector + Graph RAG memory system. Ingest anything, query by meaning, traverse by connections.
+
+`Python` `Vector memory` `LLM` `Graph RAG` `Agent skills`
+
+</td>
+<td width="50%">
+
+### 🔢 TN VED Assistant
+**AI that classifies any product by HS code in seconds.**
+
+[Source](https://github.com/komrxn/Tif_tn_ai) · GPT-5.1 + embeddings over 17,000+ codes for Uzbek customs declarations.
+
+`Python` `Aiogram` `GPT-5.1` `text-embedding-3-large` `SurrealDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🖐️ AirOS
+**Control your entire PC with hand gestures, no mouse needed.**
+
+Full system control via webcam + MediaPipe hand tracking. Cursor, scrolling, clicking, app switching.
+
+`Python` `MediaPipe` `OpenCV` `PyAutoGUI`
+
+</td>
+<td width="50%">
+
+### 😊 FaceDet AI
+**Real-time face recognition & emotion analysis at max FPS.**
+
+Edge-optimized via ONNX + CoreML, multi-face tracking with SORT, sub-frame embedding lookup.
+
+`Python` `InsightFace` `FAISS` `ONNX Runtime` `CoreML`
+
+</td>
+</tr>
 <tr>
 <td colspan="2">
 
-### 🎯 Ascender Framework
-**Angular-Inspired Python Backend Framework**
+### 🎯 [Ascender Framework](https://ascenderteam.github.io/AscenderFramework/)
+**Angular-inspired Python backend framework for enterprise AI.** · Open-source
 
-Enterprise-grade framework with dependency injection, routing, and CLI tools for AI microservices.
+Enterprise-grade DI, routing, CLI tools, purpose-built for AI microservices. Powers LegAI, NeuroBOSS, Customs AI in production.
 
-`Python` `Framework Design` `DI Pattern` `CLI Tools`
+`Python` `FastAPI` `Framework Design` `DI Pattern` `CLI Tools`
 
 </td>
 </tr>
@@ -139,94 +192,116 @@ Enterprise-grade framework with dependency injection, routing, and CLI tools for
 
 ---
 
+## 💼 Experience
+
+| Role | Company | Period |
+|---|---|---|
+| 🛰️ **ML Engineer** | Echelon AI | Apr 2026 — present |
+| 📒 **Team Lead & ML Engineer** | Baraka AI | Dec 2026 — present |
+| 🎯 **Founder · ML Engineer · Data Scientist** | LegAI | Oct 2024 — present |
+| 🧱 **Co-Creator · Python Developer** | Ascender Framework | Nov 2024 — present |
+| 💻 **Python Developer** | NeuroBOSS (Alex Yanovsky) | Jul — Sep 2025 |
+| 🤖 **ML Engineer & Intern** | Sales Doctor Solutions | Jul 2024 — May 2025 |
+| 📊 **Data Scientist** | Chemolab | Aug 2023 — Nov 2024 |
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Core Languages**
 
-### ML/DL & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**ML & AI**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
-### Data Science & Analytics
+**LLMs**
+
+![OpenAI](https://img.shields.io/badge/GPT--5.1-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-6366F1?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge)
+
+**Data Science**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### Backend & Frameworks
+**Backend**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### DevOps & Infrastructure
+![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### Tools & Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=integromat&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🏆 Highlights
+## 🎯 Currently
 
 ```yaml
-achievements:
-  - Built first AI legal assistant in Central Asia
-  - Developed 20+ production-ready AI agents
-  - Led cross-functional teams (Engineering, Design, Product)
-  - Created enterprise-grade Python framework from scratch
-  - Delivered end-to-end ML solutions: from research to deployment
-  
-specialization:
-  - LLM fine-tuning & prompt engineering
-  - NLP for low-resource languages
-  - Statistical analysis & data visualization
-  - AI system architecture & optimization
-  - Product strategy & business alignment
+shipping:
+  - Echelon v0.1.0     # AI corporate intelligence (Rust + Candle + RPi 5)
+  - Baraka AI          # AI accountant in Telegram
+  - LegAI              # NLP for Uzbek legal documents
+  - Mnemo (OSS)        # Vector + Graph RAG second brain
+
+researching:
+  - Multimodal AI architectures
+  - Edge inference (CoreML, ONNX, Candle)
+  - LLM fine-tuning for low-resource languages
+
+available_for:
+  - End-to-end AI product builds
+  - ML/LLM consulting (rate: $15–20/h)
+  - Fine-tuning gigs
 ```
 
 ---
 
-## 🎯 What I'm Working On
+<div align="center">
 
-- 🔥 **LegAI** - Revolutionizing legal tech in Central Asia
-- 🚀 Exploring **multimodal AI** and **RAG architectures**
-- 📚 Deep diving into **distributed systems** for ML at scale
-- 🌍 Building AI solutions for **emerging markets**
+## 📫 Let's Build Something
+
+### [🌐 komron-khakimov.com](https://komron-khakimov.com)
+*open the portfolio · chat with the AI · navigate with your hand · feel the emotion theme*
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:komronkhakimov17@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/komrxn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komron-khakimov-712170376/)
 
 ---
 
-## 📫 Let's Connect!
+> **"Laziness isn't a vice, it's a tech spec."**
 
-💬 Open to collaborations, consulting, and interesting ML/AI projects!
+![Profile views](https://komarev.com/ghpvc/?username=komrxn&color=6366F1&style=flat-square)
 
-<div align="center">
-
-**"Laziness isn't a vice — it's a tech spec."**
-
-*Building AI that bridges technology and real-world impact* 🚀
-
-⭐️ From [komrxn](https://github.com/komrxn) with 💜
+⭐ Built by [komrxn](https://github.com/komrxn) · powered by caffeine and Claude Code
 
 </div>
