@@ -67,21 +67,6 @@ class Komron:
 
 ---
 
-## 📊 GitHub Pulse
-
-<div align="center">
-
-![Komron's GitHub stats](https://github-readme-stats.vercel.app/api?username=komrxn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=6366F1&icon_color=6366F1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komrxn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=6366F1)
-
-![Streak](https://streak-stats.demolab.com?user=komrxn&theme=tokyonight&hide_border=true&background=0a0a0a&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=komrxn&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
 ## 🛠️ Featured Work
 
 <table>
@@ -91,7 +76,7 @@ class Komron:
 ### 🌐 [Interactive Portfolio](https://komron-khakimov.com)
 **Not a static page, a live AI playground.**
 
-- 🤖 In-browser GPT-5.1 streaming terminal
+- 🤖 In-browser Ai streaming terminal
 - ✋ Hand-gesture navigation (MediaPipe)
 - 😊 Emotion-adaptive theme (face-api.js)
 - 🌌 React Three Fiber scroll choreography
@@ -302,6 +287,6 @@ available_for:
 
 ![Profile views](https://komarev.com/ghpvc/?username=komrxn&color=6366F1&style=flat-square)
 
-⭐ Built by [komrxn](https://github.com/komrxn) · powered by caffeine and Claude Code
+⭐ Built by [komrxn](https://github.com/komrxn) · powered by caffeine
 
 </div>
