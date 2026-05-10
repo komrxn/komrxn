@@ -6,7 +6,7 @@
 
 [![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-komron--khakimov.com-6366F1?style=for-the-badge&labelColor=0a0a0a)](https://komron-khakimov.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=600&color=6366F1&center=true&vCenter=true&width=640&lines=I+don't+just+use+AI%2C+I+build+it.;Founder+of+LegAI+%E2%80%94+first+AI+legal+assistant+in+CIS;Currently%3A+building+Echelon+v0.1.0;Bridging+ML+engineering+%26+product+strategy)](https://komron-khakimov.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=600&color=6366F1&center=true&vCenter=true&width=640&lines=I+don't+just+use+AI%2C+I+build+it.;Currently%3A+building+Echelon+v0.1.0;Bridging+ML+engineering+%26+product+strategy)](https://komron-khakimov.com)
 
 [![Email](https://img.shields.io/badge/komronkhakimov17%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:komronkhakimov17@gmail.com)
 [![Telegram](https://img.shields.io/badge/@komrxn-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/komrxn)
